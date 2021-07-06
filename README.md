@@ -91,3 +91,7 @@ It will convert to:
  	-webkit-animation-iteration-count: infinite;
  }
 ```
+### Hello,
+This is snippet developed by [Rohit Chouhan](https://www.linkedin.com/in/itsrohitchouhan/)
+
+Contact: [me@rohitchouhan.com](mailto:me@rohitchouhan.com)
