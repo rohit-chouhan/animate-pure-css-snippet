@@ -10,7 +10,10 @@
   A snippet extention for Visual Studio, Which can convert <strong>Animate.css</strong> class to pure css code.'
 </p>
 
-#### Usage
+## Snippet Extention for VS Code
+Install From Here [https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.animate-css](https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.animate-css)
+
+## Usage
 If you add:
 ```html
 animate__bounce
