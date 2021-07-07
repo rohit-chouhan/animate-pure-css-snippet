@@ -91,5 +91,33 @@ It will convert to:
  	-webkit-animation-iteration-count: infinite;
  }
 ```
+
+<hr/>
+
+
+<p align="center">
+  <a href="https://animate.style/">
+    <img src="https://www.drupal.org/files/project-images/animate.png" alt="">
+  </a>
+</p>
+
+<p align="center">
+  A complete css class snippet for <strong>Animate.css</strong>
+</p>
+
+## Snippet Extention for VS Code
+Install From Here [https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.animate-css-snippet](https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.animate-css-snippet)
+
+## Usage
+If you add:
+```html
+acss__bounce
+
+<!-- acss__<class_of_animate_css>
+```
+It will convert to:
+```css
+animate__animated animate__bounce animate__slower animate__infinite animate__delay-2s
+```
 ### Hello,
 This snippet developed by [Rohit Chouhan](https://www.linkedin.com/in/itsrohitchouhan/), Contact: [me@rohitchouhan.com](mailto:me@rohitchouhan.com)
