@@ -113,7 +113,7 @@ If you add:
 ```html
 acss__bounce
 
-<!-- acss__<class_of_animate_css>
+acss__<class_of_animate_css>
 ```
 It will convert to:
 ```css
