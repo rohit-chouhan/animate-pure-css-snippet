@@ -108,6 +108,12 @@ It will convert to:
 ## Snippet Extention for VS Code
 Install From Here [https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.animate-css-snippet](https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.animate-css-snippet)
 
+<p align="center">
+  <a href="https://animate.style/">
+    <img src="https://i.ibb.co/RQnyjDk/ezgif-com-gif-maker-1.gif" alt="">
+  </a>
+</p>
+
 ## Usage
 If you add:
 ```html
