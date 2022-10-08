@@ -1,0 +1,99 @@
+{
+    "name": "animate-css",
+    "displayName": "Animate.css",
+    "description": "A Useful toolkit to get pure css code of Animate.css classes.",
+    "version": "1.0.2",
+	"publisher": "rohit-chouhan",
+	"icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "repository":"https://github.com/rohit-chouhan/animate-css-snippet",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "plaintext",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "sql",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "vb",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "vue",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "vue-html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "xml",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "json",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "scss",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "java",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "markdown",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "scss",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "scss",
+                "path": "./snippets/snippets.code-snippets"
+            },
+			{
+                "language": "astro",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
