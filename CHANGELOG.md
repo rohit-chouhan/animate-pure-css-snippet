@@ -1,9 +1,8 @@
-# Change Log
+### 1.0.3
+    - repository renamed
 
-All notable changes to the "animate-css" extension will be documented in this file.
+### 1.0.2
+    - `.astro` file support added
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+### 1.0.1
+ - intial release
