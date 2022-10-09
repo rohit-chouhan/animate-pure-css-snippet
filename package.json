@@ -1,8 +1,8 @@
 {
     "name": "animate-css",
-    "displayName": "Animate.css",
+    "displayName": "Animate.css (Pure CSS Snippet)",
     "description": "A Useful toolkit to get pure css code of Animate.css classes.",
-    "version": "1.0.2",
+    "version": "1.0.3",
 	"publisher": "rohit-chouhan",
 	"icon": "images/icon.png",
     "engines": {
@@ -11,7 +11,7 @@
     "categories": [
         "Snippets"
     ],
-    "repository":"https://github.com/rohit-chouhan/animate-css-snippet",
+    "repository":"https://github.com/rohit-chouhan/animate-pure-css-snippet",
     "contributes": {
         "snippets": [
             {
