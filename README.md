@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A snippet extention for Visual Studio, Which can convert <strong>Animate.css</strong> class to pure css code.'
+  A snippet extention for Visual Studio, Which can convert <strong>Animate.css</strong> class to pure css code.
 </p>
 
 #### Usage
